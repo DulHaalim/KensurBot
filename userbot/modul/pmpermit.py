@@ -23,8 +23,8 @@ from userbot.events import register
 
 # ========================= CONSTANTS ============================
 UNAPPROVED_MSG = (
-    "`Hey there! Unfortunately, I don't accept private messages from strangers.\n`"
-    "`Please contact me in a group, or wait for me to approve you.`"
+    "Hei yang di sana! Sayangnya, saya tidak menerima pesan pribadi dari orang asing. \ N` "
+    "` Silakan hubungi saya dalam satu grup, atau tunggu sampai saya menyetujui Anda.`"
 )  # thanks hackintosh5
 # =================================================================
 
